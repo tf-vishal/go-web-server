@@ -74,6 +74,8 @@ http://localhost:8080
 | `/hello` | GET    | Returns a plain `hello!` string                           |
 | `/form`  | POST   | Accepts form data `name` and `address`, and returns them  |
 
+[image](./image/image.png)
+
 ---
 
 ## 🧪 Example Test
